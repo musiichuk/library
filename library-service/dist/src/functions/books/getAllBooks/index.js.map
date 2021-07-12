@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../../src/functions/books/getAllBooks/index.ts"],"names":[],"mappings":";;AAAA,2DAAoD;AAEpD,kBAAe;IACX,OAAO,EAAE,GAAG,6BAAW,CAAC,SAAS,CAAC,uBAAuB;IACzD,MAAM,EAAE;QACJ;YACI,IAAI,EAAE;gBACF,MAAM,EAAE,KAAK;gBACb,IAAI,EAAE,OAAO;aAChB;SACJ;KACJ;CACJ,CAAA"}
