@@ -1,10 +1,10 @@
 # Installation Project
 
 Run: (all commands must work at library-service directory)
-2. docker-compose up (Run Dynamo Db locally)
-3. npm install
-4. npm run migrate (Migrate tables to Dynamo Db)
-5. sls offline
+1. docker-compose up (Run Dynamo Db locally)
+2. npm install
+3. npm run migrate (Migrate tables to Dynamo Db)
+4. sls offline
 
 ## Routes
 
